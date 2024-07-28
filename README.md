@@ -8,8 +8,7 @@
 <p align="left">
 <a href="https://instagram.com/ricardoes_" target="blank">
   
-  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
-  
+  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ricardoes_)
 </a>
 </p>
 
