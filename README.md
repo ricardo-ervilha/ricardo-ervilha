@@ -7,7 +7,7 @@
 <h3 align="left">Favorite Languages:</h3>
 <p>
   
-[![My Skills](https://skillicons.dev/icons?i=cpp,py,rust,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,rust,fortran,php)](https://skillicons.dev)
 
 </p>
 
