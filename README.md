@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Ricardo 👋</h1>
-<h3 align="center">Cientista de Dados Jr. • Machine Learning • Deep Learning • Python</h3>
+<h3 align="center">Cientista de Dados • Machine Learning • Deep Learning • Python</h3>
 
 <p align="center">
   <img src="animation.gif" alt="Animação">
@@ -24,8 +24,9 @@
 
 ### 🚀 Sobre mim
 
+- 📖 **Estudante de Mestrado** na Pós-Graduação em **Modelagem Computacional** do **LNCC** (Laboratório Nacional de Computação Científica)
 - 🎓 Bacharel em **Ciência da Computação** pela **UFJF** (Universidade Federal de Juiz de Fora)
-- 🌱 Explorando atualmente **Deep Learning**
+- 🌱 Explorando atualmente **Modelagem Computacional**.
 
 <br>
 
